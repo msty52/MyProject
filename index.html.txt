@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Мой проект</title>
+</head>
+<body>
+    <h1>Мой первый проект</h1>
+<p>Привет! Меня зовут [msty_]. Это мой первый проект на Git.</p>
+</body>
+</html>
