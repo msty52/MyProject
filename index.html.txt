@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <title>Мой проект</title>
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
-<<<<<<< HEAD
-    <h1>главная ветка</h1>
-=======
-    <h1>Ветка разработки</h1>
-<h1>Мой первый проект</h1>
->>>>>>> develop
-<p>Привет! Меня зовут [msty_]. Это мой первый проект на Git.</p>
-</body>
-</html>
+<h1>Главная ветка разработки</h1>
